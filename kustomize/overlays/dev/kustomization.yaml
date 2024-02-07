@@ -10,4 +10,4 @@ replicas:
 
 replicas:
 - name: productpage-deployment
-  count: 2
+  count: 1
